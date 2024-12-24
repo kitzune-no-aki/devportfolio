@@ -11,6 +11,11 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        'Amber': '#FFBE0B',
+        'Pantone': '#FB5607',
+        'NeoRose': '#FF006E',
+        'BlueViolet': '#8338EC',
+        'Azure': '#3A86FF',
       },
     },
   },
